@@ -1,0 +1,7 @@
+.background{
+    -fx-background-color: linear-gradient(to right,#020203, #220b99);
+}
+
+.button:hover {
+    -fx-background-color: rgba(0,0,0,0.5);
+}
